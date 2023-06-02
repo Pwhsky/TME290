@@ -1,2 +1,2 @@
 # TME290
-Autonomous Robots course at Chalmers, Various scripts
+Autonomous Robots course at Chalmers
